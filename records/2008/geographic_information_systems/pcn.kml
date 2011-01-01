@@ -1,0 +1,2317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Folder>
+	<name>PCN</name>
+	<open>1</open>
+	<Document>
+		<name>Alexandra Canal Linear</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin0">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin0">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin0</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin0</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Alexandra Canal Linear</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8053244352341,1.296431647947185,0 103.806386590004,1.295841712945187,0 103.8074433803558,1.295257140853135,0 103.8086825609207,1.295053345046229,0 103.809278011322,1.294983625424303,0 103.8099807500839,1.294854912271124,0 103.8100451231003,1.294801281788695,0 103.8100612163544,1.29478519264374,0 103.8100773096085,1.29475301435355,0 103.8100934028625,1.294726199111381,0 103.8101309537888,1.294704746917462,0 103.8104903697968,1.294715473014447,0 103.8106298446655,1.294683294723353,0 103.8117617368698,1.294479498870317,0 103.8122874498367,1.294425868379936,0 103.8124215602875,1.294452683625273,0 103.8126254081726,1.294458046674312,0 103.8128453493118,1.294404416183473,0 103.8133120536804,1.294318607395816,0 103.8134890794754,1.294286429099672,0 103.8135588169098,1.294243524704202,0 103.8135802745819,1.294205983357568,0 103.8136661052704,1.29413626371236,0 103.8141649961472,1.293648226142164,0 103.8145673274994,1.293310353923199,0 103.8150018453598,1.292945666398277,0 103.8152700662613,1.29271505514225,0 103.8153237104416,1.292688239878555,0 103.8153612613678,1.292677513772996,0 103.815404176712,1.292666787667411,0 103.8154363632202,1.292650698508907,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Alexandra Park</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin1">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin1</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin1">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin1">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Alexandra Park</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8157153129578,1.292597067979889,0 103.8166916370392,1.29246835470562,0 103.817925453186,1.292350367531821,0 103.8187301158905,1.292296736996442,0 103.8208758831024,1.29205003651919,0 103.8232040405273,1.291792609908695,0 103.8241374492645,1.291717527142376,0 103.8249528408051,1.292017858194294,0 103.8259077072144,1.292253832567335,0 103.8264334201813,1.292361093638755,0 103.8285040855408,1.292597067979889,0 103.8301455974579,1.292200202029946,0 103.8306820392609,1.292007132085923,0 103.8308751583099,1.291953501543305,0 103.8310468196869,1.291932049325939,0 103.8311755657196,1.291932049325939,0 103.8313579559326,1.291953501543305,0 103.8315296173096,1.291985679869015,0 103.8316690921783,1.29205003651919,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Ang Mo Kio</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin2">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin2">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin2</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin2">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Ang Mo Kio</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.845123052597,1.371711567597095,0 103.8452517986298,1.370327943963044,0 103.8451981544495,1.369255366952549,0 103.8452088832855,1.368783432915845,0 103.845123052597,1.368300773009553,0 103.8448441028595,1.367667952096337,0 103.8442647457123,1.366960050538079,0 103.8434278964996,1.365587149951509,0 103.8429129123688,1.364310780733975,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Bedok</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin3">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin3</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin3">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin3">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Bedok</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9331102371216,1.337785745432479,0 103.9333033561707,1.336841865021355,0 103.9351272583008,1.336959850092591,0 103.9373159408569,1.337227997960678,0 103.9353311061859,1.339201565368239,0 103.9356958866119,1.339598423839884,0 103.9377665519714,1.337614130839278,0 103.9383888244629,1.337045657413567,0 103.9388179779053,1.336788235441644,0 103.9391398429871,1.336702428111673,0 103.9401590824127,1.33643428018617,0 103.9407277107239,1.336294843253346,0 103.9424872398376,1.335962339766195,0 103.94327044487,1.335801450965943,0 103.9450192451477,1.335501125177271,0 103.9484739303589,1.33483611794318,0 103.9489352703094,1.33470740684483,0 103.9490532875061,1.334600147591085,0 103.9492893218994,1.334417806848942,0 103.9519286155701,1.330502840598358,0 103.9520788192749,1.330277595775569,0 103.9515423774719,1.329870009853499,0 103.9538598060608,1.326555690253173,0 103.9591705799103,1.322104412609154,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Buangkok</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin4">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin4">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin4">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin4</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Buangkok Park Connector</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8771486282349,1.379251766032772,0 103.8811182975769,1.379423377668375,0 103.8813328742981,1.379648617921342,0 103.8815367221832,1.379670069372893,0 103.8817834854126,1.379444829121961,0 103.8843369483948,1.379509183481552,0 103.8846588134766,1.379637892195503,0 103.8851952552795,1.379637892195503,0 103.8857853412628,1.379712972275411,0 103.8860642910004,1.379755875177165,0 103.8864612579346,1.379970389674281,0 103.8866436481476,1.380013292571392,0 103.8873088359833,1.380603207328079,0 103.8884997367859,1.382051179291935,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Bukit Batok East</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin5">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin5">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin5">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin5</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin5</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Bukit Batok East</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.7599468231201,1.351729390882318,0 103.7570929527283,1.35125745341779,0 103.7556767463684,1.35115019489033,0 103.7556767463684,1.352212054103435,0 103.7555158138275,1.35263036215079,0 103.7553977966309,1.352844879070166,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Bukit Panjang</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin6">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin6</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin6</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin6">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin6">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Bukit Panjang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.7743663787842,1.387950315194955,0 103.7740337848663,1.389076512196386,0 103.773787021637,1.389430459714575,0 103.7730467319489,1.389784407179713,0 103.7716090679169,1.390009646448095,0 103.7709438800812,1.390095451878015,0 103.7707507610321,1.390084726199452,0 103.7703967094421,1.390074000520825,0 103.7704610824585,1.389055060829947,0 103.7697100639343,1.387767978487129,0 103.7689054012299,1.386416541273326,0 103.7678217887878,1.384421561119351,0 103.7667810916901,1.382673270679401,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Canberra-Sembawang</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin7">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin7">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin7">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin7</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin7</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Canberra-Sembawang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8361215591431,1.45879240710519,0 103.8360142707825,1.458492097039591,0 103.8358640670776,1.458084533315045,0 103.835756778717,1.457634068059945,0 103.8356709480286,1.45716215198176,0 103.8355851173401,1.457011996845236,0 103.8351345062256,1.456647334329142,0 103.8345551490784,1.456153967301678,0 103.8341474533081,1.455660600166241,0 103.8337826728821,1.454974176146024,0 103.8332676887512,1.454309202677248,0 103.8330101966858,1.454137596588991,0 103.8327956199646,1.453965990487667,0 103.8324522972107,1.453708581311243,0 103.8322806358337,1.453665679778972,0 103.8321089744568,1.453665679778972,0 103.8316798210144,1.453472622873735,0 103.8306927680969,1.452657493536297,0 103.8304352760315,1.45255023965419,0 103.8296842575073,1.451885265471647,0 103.8289761543274,1.451348995827089,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Changi</name>
+		<open>1</open>
+		<Style id="sn_ylw-pushpin8">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin8">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin8</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin8</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin8">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Changi</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9733970165253,1.389205220390953,0 103.9736330509186,1.389559167889843,0 103.9738690853119,1.389923841015058,0 103.9738583564758,1.390299239761587,0 103.9742982387543,1.390674638448436,0 103.9747059345245,1.390728266827387,0 103.9745879173279,1.39088915195696,0 103.9744699001312,1.391146568141457,0 103.9746308326721,1.391479064004857,0 103.9751243591309,1.391661400426178,0 103.9752852916718,1.391639949083224,0 103.9754140377045,1.391532692365538,0 103.9756178855896,1.391757931467056,0 103.9762187004089,1.392004621886898,0 103.9770877361298,1.392401471638569,0 103.9781820774078,1.392283489286949,0 103.9799523353577,1.392680338991675,0 103.981100320816,1.392508728316752,0 103.9822590351105,1.393087914294534,0 103.9842545986176,1.392304940624039,0 103.9846301078796,1.392304940624039,0 103.9848661422729,1.392337117629336,0 103.9850807189941,1.392573082321303,0 103.9852094650269,1.392551630986643,0 103.9852845668793,1.392229860943354,0 103.9865612983704,1.391768657138025,0 103.98686170578,1.391725754453871,0 103.9876770973206,1.391017860052714,0 103.9879667758942,1.390803346555894,0 103.988288640976,1.390717541151686,0 103.9882671833038,1.390631735744373,0 103.9881491661072,1.390610284392068,0 103.9879024028778,1.390492301950858,0 103.9879560470581,1.390417222212466,0 103.9878380298615,1.390342142471668,0 103.9870011806488,1.390063274842172,0 103.9867651462555,1.390535204657428,0 103.9862823486328,1.390878426281984,0 103.9861643314362,1.391082214097963,0 103.985960483551,1.391189470836144,0 103.9858210086823,1.39116801948889,0 103.9855635166168,1.391264550549958,0 103.9850699901581,1.391532692365538,0 103.9848124980927,1.391682851768942,0 103.9845657348633,1.391736480124992,0 103.984340429306,1.391768657138025,0 103.9841365814209,1.391790108479809,0 103.9836645126343,1.391747205796037,0 103.9822697639465,1.391425435642968,0 103.9813899993896,1.391489789677098,0 103.9810681343079,1.391511241021401,0 103.9804565906525,1.39157559505319,0 103.9800274372101,1.391275276223178,0 103.9798557758331,1.391125116793821,0 103.9795124530792,1.390631735744373,0 103.9790296554565,1.389741504459492,0 103.9786648750305,1.389344654260483,0 103.978396654129,1.389205220390953,0 103.977302312851,1.388647484830533,0 103.976776599884,1.389140866294547,0 103.9762401580811,1.389880938297369,0 103.9760792255402,1.390245611372879,0 103.9759182929993,1.390363593826429,0 103.9759719371796,1.390792620880537,0 103.9758110046387,1.390856974931918,0 103.9756715297699,1.390792620880537,0 103.9753711223602,1.391253824876712,0 103.9758002758026,1.39167212609758,0 103.975870013237,1.391833011162779,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Choa Chu Kang</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin9">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin9</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin9</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin9">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin9">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Choa Chu Kang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.7460207939148,1.387875235375788,0 103.7462139129639,1.386631055168313,0 103.7463641166687,1.385032926183759,0 103.746417760849,1.384893492060129,0 103.746235370636,1.384775509333751,0 103.7453663349152,1.384443012527786,0 103.7435102462769,1.38389600155201,0 103.7427270412445,1.38366003599408,0 103.7414610385895,1.383284636194469,0 103.7397444248199,1.381750859253451,0 103.7382531166077,1.380249258491626,0 103.7394332885742,1.378640399480334,0 103.7391543388367,1.378479513519402,0 103.7393367290497,1.37820064449466,0 103.7387895584106,1.37806120997005,0 103.7382960319519,1.377793066630551,0 103.7383389472961,1.37766435781687,0 103.7382209300995,1.377514197525456,0 103.7379634380341,1.377589277672333,0 103.7372875213623,1.377138796755509,0 103.7358713150024,1.376248560407592,0 103.736879825592,1.37521888903652,0 103.7387359142303,1.373985427955118,0 103.7398624420166,1.373534946357884,0 103.7412464618683,1.373052287409486,0 103.7431454658508,1.372612531393859,0 103.7449049949646,1.372837772290011,0 103.7450873851776,1.372891401071683,0 103.7454414367676,1.372398016234933,0 103.7461495399475,1.371582858455575,0 103.7485527992249,1.369459156621468,0 103.7489283084869,1.369351898903142,0 103.7489604949951,1.369191012316646,0 103.7491643428802,1.368997948398603,0 103.7504303455353,1.367775209889991,0 103.7507522106171,1.36733545290558,0 103.7511920928955,1.366756260656864,0 103.7513852119446,1.36631650348583,0 103.7515997886658,1.365265376263062,0 103.7517607212067,1.361650782206003,0 103.7518680095673,1.360503120644007,0 103.7519001960754,1.360095539770966,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Coastal</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin10">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin10</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin10</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin10">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin10">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Coastal</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.963987827301,1.31505743386172,0 103.9661121368408,1.315861884498455,0 103.9667558670044,1.31578680245,0 103.96812915802,1.316119308647417,0 103.9691054821014,1.316516170825006,0 103.9713048934937,1.316848676925161,0 103.9720773696899,1.316698512885425,0 103.9732682704926,1.316966662950029,0 103.974437713623,1.316945210945926,0 103.9755535125732,1.316902306937148,0 103.9772593975067,1.316945210945926,0 103.9776992797852,1.317095374970803,0 103.9779996871948,1.317309894990648,0 103.9785039424896,1.316612704858658,0 103.9793515205383,1.316719964891665,0 103.9799308776855,1.316741416897689,0 103.9813792705536,1.31678432090924,0 103.9824199676514,1.316612704858658,0 103.9833533763885,1.316977388952017,0 103.9839327335358,1.316848676925161,0 103.9857029914856,1.321042540376665,0 103.9868938922882,1.323874198653827,0 103.9863038063049,1.324120896002189,0 103.9882135391235,1.328432732643903,0 103.9896190166473,1.331779227538897,0 103.9905202388763,1.333731347463221,0 103.9910244941711,1.334428532775322,0 103.9922475814819,1.337249449788858,0 104.0045642852783,1.367903919236033,0 104.004693031311,1.369298270042185,0 104.0048432350159,1.372601805636354,0 104.0047359466553,1.373717284157479,0 104.0042424201965,1.37566937031603,0 104.0011954307556,1.383434796121443,0 104.0009593963623,1.384400109710724,0 104.0008521080017,1.385193811700801,0 103.9996933937073,1.38727459673661,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Geylang</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin11">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin11</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin11</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin11">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin11">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Geylang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8750350475311,1.298131732592907,0 103.8767087459564,1.298088828262575,0 103.8778460025787,1.298507145452117,0 103.8790369033813,1.299257971003278,0 103.8819229602814,1.302325627363931,0 103.8826096057892,1.30289410872725,0 103.8835430145264,1.303805823853344,0 103.8838756084442,1.304213414038235,0 103.8840579986572,1.304406483050139,0 103.8845193386078,1.304889155515067,0 103.8852059841156,1.305210937106938,0 103.8863968849182,1.30548981445322,0 103.8891434669495,1.305886678315764,0 103.8899481296539,1.306154829538765,0 103.8902485370636,1.3065516932963,0 103.8903665542603,1.307012913260056,0 103.8899803161621,1.308471654913248,0 103.8897013664246,1.308407298681724,0 103.8894867897034,1.30833221640951,0 103.8889181613922,1.310413067121039,0 103.8882422447205,1.313330545619379,0 103.8897120952606,1.313663052143948,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Hillview</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin12">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin12</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin12</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin12">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin12">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Hillview</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.7670493125916,1.361854572519709,0 103.764967918396,1.362219249880177,0 103.7648177146912,1.362111991838719,0 103.7644743919373,1.360889249828634,0 103.7640881538391,1.359559249043656,0 103.7637877464294,1.359001506560887,0 103.7631869316101,1.358046908551144,0 103.7629079818726,1.357735859679992,0 103.7626504898071,1.357381907467584,0 103.7624573707581,1.356738357857763,0 103.7622535228729,1.355998275594816,0 103.7618243694305,1.355247467270735,0 103.76136302948,1.354743352979657,0 103.7609124183655,1.354421577845419,0 103.7605476379395,1.354078350988456,0 103.7602686882019,1.353627865664934,0 103.7601506710052,1.353316816226053,0 103.760097026825,1.35279124984211,0 103.7601721286774,1.351922456182286,0 103.7609767913818,1.349702204306286,0 103.7610411643982,1.347825178192019,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Jurong</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin13">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin13">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin13">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin13</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin13</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Jurong</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.7271273136139,1.353676131953617,0 103.7277442216873,1.353375808364083,0 103.72787296772,1.353295364539141,0 103.7279373407364,1.353145202725449,0 103.7279480695724,1.353027218436745,0 103.7279427051544,1.352142336088541,0 103.7279480695724,1.351010758797555,0 103.7279373407364,1.350249223072754,0 103.7278890609741,1.350077609355351,0 103.7279319763184,1.349380428503826,0 103.7279212474823,1.347363965839598,0 103.7279427051544,1.345240242718331,0 103.7279641628265,1.343620634448938,0 103.7277710437775,1.343288131956104,0 103.7273633480072,1.343052162417607,0 103.7269556522369,1.343073614194758,0 103.7265694141388,1.343202324853835,0 103.7259900569916,1.343835152162231,0 103.7250781059265,1.344349994597273,0 103.7243270874023,1.344446527541764,0 103.7236940860748,1.344382172245857,0 103.723007440567,1.344156928696868,0 103.7223315238953,1.34351337558523,0 103.7221920490265,1.343255954293106,0 103.7219345569611,1.342762563407386,0 103.7219345569611,1.34263385272518,0 103.7215912342072,1.342687482176931,0 103.7212157249451,1.34273038573748,0 103.7202286720276,1.342515867927192,0 103.7198746204376,1.342376431340413,0 103.7196707725525,1.342247720637864,0 103.7193381786346,1.342011750998938,0 103.7188768386841,1.341625618813407,0 103.7179970741272,1.340896257852249,0 103.7167739868164,1.339941652736498,0 103.7162590026855,1.339448261182505,0 103.7163555622101,1.339233743084556,0 103.7161839008331,1.339094306310823,0 103.7152290344238,1.338311315049494,0 103.7146818637848,1.337968085924617,0 103.7138772010803,1.33772138996145,0 103.713104724884,1.337657034488704,0 103.711838722229,1.337753567697181,0 103.7099397182465,1.337935908191698,0 103.7095856666565,1.338010989567848,0 103.7089204788208,1.338118248672654,0 103.7088131904602,1.338107522762394,0 103.7087488174438,1.338043167299787,0 103.7085771560669,1.337775019520768,0 103.7084054946899,1.337185094303759,0 103.7081050872803,1.336284117335109,0 103.7076759338379,1.335061362349061,0 103.7073218822479,1.334310547582551,0 103.7070429325104,1.333581184447064,0 103.7065386772156,1.332336976246585,0 103.7061309814453,1.331242930585537,0 103.7059915065765,1.330770989170098,0 103.7057662010193,1.330213240108135,0 103.7054443359375,1.329258630844203,0 103.7052404880524,1.328518540261993,0 103.7051546573639,1.328100228095705,0 103.7051868438721,1.327885709008603,0 103.7051868438721,1.327617560123552,0 103.7049078941345,1.32615882967955,0 103.70481133461,1.325590353611867,0 103.704628944397,1.324539208841127,0 103.7045323848724,1.323874198653827,0 103.70445728302,1.323423707780441,0 103.7043178081512,1.322758697293978,0 103.7042963504791,1.322286754259968,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Kallang</name>
+		<open>1</open>
+		<Style id="sn_ylw-pushpin14">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin14">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin14</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin14</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin14">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Kallang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8498330116272,1.357070858510875,0 103.8509488105774,1.356298598859221,0 103.8520431518555,1.355290370609802,0 103.8536095619202,1.352780523996351,0 103.8547253608704,1.351579228971734,0 103.8535559177399,1.350924951967249,0 103.8536310195923,1.350817693425108,0 103.854843378067,1.351471970458485,0 103.856098651886,1.35018486793015,0 103.8566029071808,1.349369702643017,0 103.8572573661804,1.344264187532319,0 103.8574612140656,1.343813700391759,0 103.8575148582458,1.342215542961177,0 103.8576865196228,1.341765055442997,0 103.8579869270325,1.341443278593511,0 103.8617098331451,1.338793980925089,0 103.8623857498169,1.338279137321079,0 103.8637375831604,1.337131464731554,0 103.8641452789307,1.336080324879681,0 103.8644886016846,1.333484651074712,0 103.8644564151764,1.332562220881199,0 103.8642954826355,1.332047375971813,0 103.8637590408325,1.331114219299382,0 103.8635981082916,1.330674455687636,0 103.865818977356,1.327714093725514,0 103.8652718067169,1.326920372886313,0 103.8651537895203,1.326716579656763,0 103.8657653331757,1.325976488313561,0 103.8661301136017,1.32556890168224,0 103.8664412498474,1.325933584460783,0 103.8666021823883,1.325804872898034,0 103.8670206069946,1.32544019010051,0 103.8674175739288,1.325054055315193,0 103.867621421814,1.324614290625265,0 103.867814540863,1.319304930290174,0 103.8678896427155,1.318993876504594,0 103.8681149482727,1.318253782858505,0 103.8694989681244,1.316065678618561,0 103.8698852062225,1.316065678618561,0 103.8719987869263,1.317481510993229,0 103.8722455501556,1.31788909895196,0 103.8722991943359,1.318811534612236,0 103.8727176189423,1.317964180937084,0 103.872663974762,1.317449332993639,0 103.8724064826965,1.316966662950029,0 103.8701641559601,1.315486474233586,0 103.8695418834686,1.313684504176268,0 103.8694882392883,1.312719162539431,0 103.8697028160095,1.312279395670161,0 103.8707113265991,1.311185341172209,0 103.8708508014679,1.310970820626326,0 103.870861530304,1.310466697271176,0 103.8707327842712,1.31021999857104,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Jurong West</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin15">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin15</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin15</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin15">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin15">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Jurong West</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.6982774734497,1.339866571419469,0 103.7008094787598,1.34035996288919,0 103.7036848068237,1.340939161444209,0 103.7038993835449,1.339694956971913,0 103.7042641639709,1.338622366402433,0 103.7041997909546,1.338429300050083,0 103.7042212486267,1.338000263657116,0 103.7044358253479,1.337764293608994,0 103.7045860290527,1.337592679014291,0 103.7048864364624,1.337056383328484,0 103.7050580978394,1.336906220515462,0 103.7058305740356,1.336477183856219,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Khatib Bongsu</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin16">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin16">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin16">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin16</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin16</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Khatib Bongsu</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8442969322205,1.43398451627634,0 103.8439106941223,1.433641301017779,0 103.8436853885651,1.433137203513478,0 103.8436853885651,1.431421126071509,0 103.8436961174011,1.431185165322755,0 103.8436853885651,1.430294949552124,0 103.8432025909424,1.429608517878704,0 103.8422155380249,1.42854669347962,0 103.8420224189758,1.428385810952097,0 103.8410031795502,1.428224928413314,0 103.8410353660583,1.427828084769466,0 103.840970993042,1.427441966563757,0 103.8409388065338,1.42716310337485,0 103.8400375843048,1.42451390139479,0 103.8382995128632,1.423205387551697,0 103.8380527496338,1.423098132285731,0 103.8369584083557,1.423033779123747,0 103.8367545604706,1.423033779123747,0 103.8354241847992,1.422872896210943,0 103.8351774215698,1.422604757998015,0 103.834855556488,1.422594032468848,0 103.8347053527832,1.420867221623219,0 103.8345444202423,1.420245140381099,0 103.8336968421936,1.418453974490368,0 103.8335466384888,1.418132208015725,0 103.8324415683746,1.415976371482227,0 103.8311219215393,1.413509491397119,0 103.8296842575073,1.410527780665937,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Loyang</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin17">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin17">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin17</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin17</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin17">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Loyang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9666378498077,1.36602690725605,0 103.9671206474304,1.366477390265056,0 103.9709079265594,1.370274315123919,0 103.9710366725922,1.370381572800961,0 103.9745879173279,1.373953250700987,0 103.9744806289673,1.374296474722677,0 103.9747059345245,1.374532441208973,0 103.9750277996063,1.374393006469892,0 103.9758539199829,1.37525106627359,0 103.9767336845398,1.376227108925227,0 103.977860212326,1.377364037224576,0 103.9781177043915,1.377803792364698,0 103.9782571792603,1.378254273155814,0 103.9783537387848,1.379026525742261,0 103.9782893657684,1.379809503803257,0 103.9786326885223,1.379809503803257,0 103.978579044342,1.381246750532059,0 103.9784288406372,1.383606407454919,0 103.9783644676208,1.384593172381417,0 103.9785039424896,1.385247440204073,0 103.9786541461945,1.385633565391684,0 103.9789223670959,1.386041141910304,0 103.9793622493744,1.386609603779686,0 103.9796304702759,1.38684556904386,0 103.980005979538,1.387049357207626,0 103.9802312850952,1.387145888436971,0 103.980016708374,1.387360402265827,0 103.9798450469971,1.387478384863444,0 103.9795768260956,1.387596367455144,0 103.9791584014893,1.387660721593584,0 103.9788901805878,1.387649995903965,0 103.9777421951294,1.388239908760855,0 103.9774525165558,1.388411519746137,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Pandan Gardens</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin18">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin18</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin18</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin18">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin18">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Pandan Gardens</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.7492072582245,1.317921276945863,0 103.7507843971252,1.320570597016521,0 103.7511920928955,1.321825537117326,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Pasir Ris</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin19">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin19">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin19</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin19</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin19">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Pasir Ris</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9530229568481,1.374918568136246,0 103.9560270309448,1.375326146491738,0 103.9563059806824,1.375326146491738,0 103.9562845230103,1.375765902007725,0 103.9584302902222,1.375798079237417,0 103.9614772796631,1.375390500962546,0 103.9624428749084,1.375175986053064,0 103.9633655548096,1.374811310662721,0 103.9639449119568,1.374146314219259,0 103.9640736579895,1.373352608544396,0 103.9640307426453,1.371829550970741,0 103.9640092849731,1.370992941468366,0 103.9640736579895,1.370306492427526,0 103.9646744728088,1.369019399945813,0 103.9653396606445,1.367946822349854,0 103.9659190177917,1.366981502103519,0 103.9665842056274,1.366144890909432,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Sembawang</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin20">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin20</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin20</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin20">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin20">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Sembawang</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8121318817139,1.445042455278414,0 103.8125395774841,1.44512825866886,0 103.812882900238,1.445557275572469,0 103.8137197494507,1.451113037143215,0 103.813784122467,1.453000705924751,0 103.8133764266968,1.453022156697293,0 103.8133549690247,1.454523710269241,0 103.8130116462708,1.45596091060936,0 103.812518119812,1.457762772427745,0 103.8118314743042,1.459285773554506,0 103.8102221488953,1.462439026129235,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Serangoon (Punggol Park - Buangkok Green)</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin21">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin21">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin21">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin21</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin21</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Serangoon (Punggol Park - Buangkok Green)</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.896803855896,1.37875838251146,0 103.8968145847321,1.379176685938297,0 103.8960421085358,1.379369749033593,0 103.8951623439789,1.379573537839399,0 103.8934457302094,1.379648617921342,0 103.8930058479309,1.379552086386969,0 103.8927805423737,1.379562812113203,0 103.8912999629974,1.379573537839399,0 103.8886392116547,1.381707956387701,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Serangoon (Tampines Rd - Sungei Punggol)</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin22">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin22</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin22</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin22">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin22">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Serangoon (Tampines Rd - Sungei Punggol)</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8955700397491,1.36205836281619,0 103.895537853241,1.362487394962963,0 103.8957524299622,1.36317384623883,0 103.8961172103882,1.363699410364668,0 103.8980162143707,1.365490617849497,0 103.8989388942719,1.366380858198818,0 103.8991105556488,1.366670454385903,0 103.8996469974518,1.367893193457461,0 103.9007198810577,1.370703345803261,0 103.9019000530243,1.372623257151288,0 103.9036595821381,1.374371554970849,0 103.9045071601868,1.375873159438364,0 103.9043247699738,1.376677590014362,0 103.9044642448425,1.377181699703635,0 103.9044964313507,1.37800758130457,0 103.9043891429901,1.379123057297943,0 103.9042174816132,1.379841680978332,0 103.9037132263184,1.379680795098593,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Siglap</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin23">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin23</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin23</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin23">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin23">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Siglap</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9258575439453,1.338193330043231,0 103.9239692687988,1.337764293608994,0 103.9234972000122,1.337592679014291,0 103.9240980148315,1.33523297712064,0 103.9190340042114,1.334632325367692,0 103.9184761047363,1.334374903142953,0 103.918776512146,1.333645540026536,0 103.918604850769,1.333173599071337,0 103.9183473587036,1.33257294681567,0 103.9180040359497,1.332143909400524,0 103.9112234115601,1.328840318803242,0 103.910676240921,1.328561444069913,0 103.910665512085,1.329205001099332,0 103.9105153083801,1.329398068175449,0 103.9104080200195,1.329462423864129,0 103.9102792739868,1.329516053603416,0 103.9101612567902,1.329462423864129,0 103.9100539684296,1.32934443843358,0 103.9100217819214,1.329247904895331,0 103.9099895954132,1.329129919454528,0 103.9101505279541,1.328883222605576,0 103.9102256298065,1.32882959285255,0 103.910311460495,1.328775963098353,0 103.9106440544128,1.328518540261993,0 103.9107728004456,1.328379102881093,0 103.9109444618225,1.327907160918154,0 103.9109981060028,1.327424492908305,0 103.9110088348389,1.326437704683862,0 103.9110517501831,1.324721550312927,0 103.9114379882812,1.324292511534391,0 103.9119529724121,1.323906376570225,0 103.9122104644775,1.323734761011294,0 103.9125967025757,1.320946006514839,0 103.9129400253296,1.319701791960134,0 103.9132404327393,1.318972424517947,0 103.9137125015259,1.317856920957638,0 103.9165019989014,1.310606135656165,0 103.9166736602783,1.310069834132958,0 103.9167594909668,1.309769505229836,0 103.9172959327698,1.309898217621285,0 103.918240070343,1.30773155815103,0 103.9184975624084,1.307023639304727,0 103.9191198348999,1.30434212671447,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Simei</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin24">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin24">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin24">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin24</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin24</styleUrl>
+			</Pair>
+		</StyleMap>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Simei</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9538812637329,1.342462238471688,0 103.9545249938965,1.341711425971017,0 103.9548790454865,1.341260938360002,0 103.9552760124207,1.340649562183843,0 103.9555549621582,1.340016734051212,0 103.9556622505188,1.33973786058494,0 103.9558017253876,1.339180113557145,0 103.9560270309448,1.338214781862976,0 103.95623087883,1.337313805272291,0 103.9563488960266,1.336219761824705,0 103.9563488960266,1.335640562155131,0 103.95623087883,1.334728858695045,0 103.9561021327972,1.334171110529247,0 103.956059217453,1.334042399396115,0 103.9558339118958,1.33391368825624,0 103.9555335044861,1.333666991885988,0 103.9554262161255,1.333559732586875,0 103.9554047584534,1.333441747352438,0 103.9553833007812,1.333313036181152,0 103.9545679092407,1.332733835827085,0 103.9543426036835,1.332519317142858,0 103.9545893669128,1.332299435472145,0 103.9545840024948,1.332186813145392,0 103.9544981718063,1.332186813145392,0 103.9544284343719,1.33218145017733,0 103.9543694257736,1.33213854643236,0 103.9537632465363,1.331650516280731,0 103.9520144462585,1.330288321719989,0 103.9518427848816,1.330154247411524,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Simpang Kiri</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin25">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin25">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin25">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin25</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin25</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Simpang Kiri</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8432240486145,1.458020181141272,0 103.8427734375,1.457730596336489,0 103.8415825366974,1.456969095375813,0 103.8410997390747,1.456690235804697,0 103.8402736186981,1.456153967301678,0 103.839522600174,1.455724952407416,0 103.8380420207977,1.454802570108324,0 103.8373553752899,1.454405731096166,0 103.8364112377167,1.453815835138313,0 103.8355314731598,1.453268840566948,0 103.834855556488,1.452850550511201,0 103.8334608078003,1.452003244776372,0 103.8332462310791,1.451831638512916,0 103.8331496715546,1.451681483021697,0 103.8330692052841,1.451536690217162,0 103.8329887390137,1.4513329077358,0 103.8329190015793,1.451139850631257,0 103.8328438997269,1.450941430812179,0 103.8328170776367,1.450850264943539,0 103.8328224420547,1.450764461769689,0 103.8328385353088,1.450651845099068,0 103.8328814506531,1.450566041917698,0 103.8331335783005,1.450147751361905,0 103.833230137825,1.449992233058635,0 103.8333266973495,1.449836714744667,0 103.8334554433823,1.44964902021358,0 103.8337290287018,1.44924681759459,0 103.8338685035706,1.44901622139415,0 103.8340938091278,1.448646194883909,0 103.8342440128326,1.448399510510175,0 103.834662437439,1.447755985930568,0 103.8349735736847,1.447219715308028,0 103.8355207443237,1.446329505794655,0 103.8357353210449,1.446007743234001,0 103.8360679149628,1.445546550150856,0 103.8360679149628,1.445450021354165,0 103.8359498977661,1.445396394243111,0 103.835563659668,1.445117533245237,0 103.8351130485535,1.444838672213115,0 103.8343942165375,1.444377478892573,0 103.8338792324066,1.444098617769626,0 103.8336753845215,1.443959187195304,0 103.8331604003906,1.443648149729507,0 103.8326776027679,1.44334783765316,0 103.8320177793503,1.442950996634326,0 103.8315242528915,1.44263459631293,0 103.8311487436295,1.442398636722573,0 103.8307464122772,1.442168039826534,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Tampines</name>
+		<open>1</open>
+		<StyleMap id="msn_ylw-pushpin26">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin26</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin26</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin26">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin26">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Placemark>
+			<name>Tampines</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.9443969726562,1.360578201323641,0 103.9463603496552,1.360535298078425,0 103.9468860626221,1.360631830379082,0 103.9476156234741,1.360867798208883,0 103.9488172531128,1.36138263703014,0 103.9506196975708,1.362573201383143,0 103.9531946182251,1.365211747310811,0 103.9528298377991,1.365319005214131,0 103.9531517028809,1.365833843083474,0 103.9535701274872,1.366584648111902,0 103.9538812637329,1.367968273906466,0 103.953891992569,1.369169560770962,0 103.9539134502411,1.370842780757487,0 103.9543318748474,1.370885683818701,0 103.9541494846344,1.371765196404008,0 103.9532804489136,1.373781638671644,0 103.9530873298645,1.374500263962221,0 103.9530658721924,1.374982922618046,0 103.9530658721924,1.375347597982194,0 103.9531302452087,1.376270011889753,0 103.953902721405,1.378672576671223,0 103.9543318748474,1.379981115398632,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Tanjong Rhu</name>
+		<open>1</open>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin27">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin27">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin27">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin27</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin27</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Tanjong Rhu</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8666880130768,1.294656479480485,0 103.8664519786835,1.295621828045665,0 103.8663983345032,1.296758793661761,0 103.866548538208,1.297627606665693,0 103.866730928421,1.298088828262575,0 103.8670098781586,1.298421336803501,0 103.8674068450928,1.29811028042783,0 103.8698959350586,1.298131732592907,0 103.871408700943,1.298582228017272,0 103.8717091083527,1.298700214900864,0 103.8716018199921,1.2990541755186,0 103.8712048530579,1.299043449439999,0 103.8710653781891,1.299365231778092,0 103.8719773292542,1.29938668393252,0 103.8724708557129,1.298432062884735,0 103.8732969760895,1.298560775856037,0 103.8734686374664,1.298507145452117,0 103.8736295700073,1.298646584499908,0 103.8749063014984,1.29815318475778,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Whampoa</name>
+		<open>1</open>
+		<Style id="sn_ylw-pushpin28">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin28">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin28</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin28</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin28">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Whampoa</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.8493931293488,1.328690155489206,0 103.8513672351837,1.327649737991288,0 103.8537919521332,1.326373348916432,0 103.8554549217224,1.325386560272817,0 103.8581693172455,1.323209188288149,0 103.8582980632782,1.323359351934705,0 103.8593816757202,1.322597807633361,0 103.8600146770477,1.322125864568779,0 103.8629543781281,1.32134286792281,0 103.8636410236359,1.32124633407265,0 103.8647997379303,1.320592048989391,0 103.8653790950775,1.32046333714945,0 103.8669240474701,1.319841229829148,0 103.8672244548798,1.320045023623628,0 103.8671708106995,1.323455885702679,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>Ulu Pandan</name>
+		<open>1</open>
+		<Style id="sn_ylw-pushpin29">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin29">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin29</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin29</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id="sh_ylw-pushpin">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sn_ylw-pushpin">
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+			<LineStyle>
+				<color>ff051381</color>
+				<width>2.8</width>
+			</LineStyle>
+		</Style>
+		<Style id="sh_ylw-pushpin29">
+			<IconStyle>
+				<scale>1.3</scale>
+				<Icon>
+					<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+			</IconStyle>
+		</Style>
+		<StyleMap id="msn_ylw-pushpin">
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#sn_ylw-pushpin</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#sh_ylw-pushpin</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Ulu Pandan</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+103.759925365448,1.351750842583072,0 103.7606763839722,1.349755833602559,0 103.7580156326294,1.349476961249023,0 103.7572860717773,1.348704699180109,0 103.7562775611877,1.347653564303654,0 103.7559771537781,1.347353239969883,0 103.7571573257446,1.34565855196426,0 103.7570714950562,1.345293872112858,0 103.7572431564331,1.345079354527728,0 103.7565779685974,1.344264187532319,0 103.756148815155,1.34409257339334,0 103.755784034729,1.344028218088107,0 103.7553334236145,1.343985314550344,0 103.7546253204346,1.344135476929207,0 103.7524151802063,1.344757578114691,0 103.752179145813,1.34422128399869,0 103.7518572807312,1.34422128399869,0 103.7509560585022,1.343277406068489,0 103.7503123283386,1.342612400944148,0 103.7499904632568,1.342119009928547,0 103.7494540214539,1.34098206503543,0 103.7488317489624,1.341346745530398,0 103.7484884262085,1.340788998869029,0 103.7486386299133,1.340703191679091,0 103.7487459182739,1.336648798528908,0 103.7489604949951,1.333902962327609,0 103.7497758865356,1.328969030208006,0 103.7498617172241,1.328497088357748,0 103.7501192092896,1.325493819927045,0 103.7513637542725,1.323177010362717,0 103.7514925003052,1.322747971316913,0 103.7514066696167,1.32244764394075,0 103.7524795532227,1.32206150868938,0 103.7526726722717,1.322479821875634,0 103.7532520294189,1.322876683038448,0 103.7561702728271,1.324378319296053,0 103.7565565109253,1.324378319296053,0 103.7584018707275,1.323219914263204,0 103.7590026855469,1.322962490849102,0 103.7599468231201,1.323005394753291,0 103.7623929977417,1.32377766490215,0 103.762993812561,1.32377766490215,0 103.764066696167,1.323391529857783,0 103.7654829025269,1.322876683038448,0 103.7668991088867,1.32206150868938,0 103.77037525177,1.318715000663797,0 103.7711906433105,1.317771112970768,0 103.7717914581299,1.317856920957638,0 103.7787652015686,1.312794244680109,0 103.7826919555664,1.311314053490912,0 103.7878632545471,1.308418024720415,0 </coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</Folder>
+</kml>

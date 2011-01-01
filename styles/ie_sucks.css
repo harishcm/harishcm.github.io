@@ -1,0 +1,19 @@
+li {
+  width: auto;
+}
+
+a {
+  color: expression(this.parentNode.currentStyle.color);
+}
+
+p {
+  width: auto;
+}
+
+blockquote {
+  width: auto;
+}
+
+li p, blockquote p {
+  width: auto;
+}

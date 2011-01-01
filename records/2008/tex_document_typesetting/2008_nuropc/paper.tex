@@ -1,0 +1,194 @@
+\documentclass{nuropc}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage[version=3]{mhchem}
+\usepackage{booktabs}
+\usepackage{dcolumn}
+ \newcolumntype{.}{D{.}{.}{2.2}}
+
+\setcounter{secnumdepth}{0}
+
+\title{Basic behaviour study of cement treated Singapore marine clay}
+
+\author{Mohanadas H. C. \\
+\normalsize\textit{Department of Civil Engineering, 
+National University of Singapore \\ 
+Block E1A \#07-03, 1 Engineering Drive 2, Singapore 117576}}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+A study was conducted to investigate 
+the effects of curing time on the 
+basic behaviour of cement treated Singapore marine clay. 
+Specimens were prepared in 
+two different soil-cement-total water content ratios and 
+left to cure under water for periods of 7~days, 4~weeks and 3~months. 
+After curing, they were subject to a series of 
+triaxial tests---unconfined compressive strength tests~(UCT), 
+isotropic compression tests~(ICT), isotropically consolidated 
+undrained tests~(CIU) and isotropically consolidated drained~(CID) tests. 
+The effects of curing time on 
+stress-strain and strength behaviour was investigated. 
+\end{abstract}
+
+\section{Introduction}
+Singapore Upper Marine Clay located 4--5\,m beneath the seabed, 
+retrieved from a dredge site in Pulau Tekong, Singapore 
+was used in this study. 
+The specimens were mixed in soil-cement-total water content 
+ratios of 2-1-4 and 5-1-6.
+To prepare the clay-cement mixture, the required amount of cement slurry 
+was added to 100\% water content remoulded clay and 
+mixed in a Hobart mixer for about 10\,min. 
+The clay-cement mixture was then cured under water in PVC split 
+molds of diameter 50\,mm and length 100\,mm. 
+The specimens were trimmed down to
+diameter 38\,mm by length 76\,mm before testing. 
+Parameters for the triaxial 
+tests are given in Table~\ref{parameters}. 
+The UCT, CIU and CID tests followed 
+standards for soil testing from the 
+British Standards Institute \citep{bs1377}. 
+
+\begin{table}[htbp]
+\caption{Parameters for triaxial tests.}
+\begin{center}
+\begin{tabular}{l....} \toprule
+ & \multicolumn{1}{c}{UCT} & \multicolumn{1}{c}{ICT} & \multicolumn{1}{c}{CIU}
+& \multicolumn{1}{c}{CID} \\ \midrule
+Side drains &  & \multicolumn{1}{c}{Present} & \multicolumn{1}{c}{Present} 
+& \multicolumn{1}{c}{Present} \\ 
+Membrane thickness (mm)          &   & 0.2 & 0.2  & 0.2 \\ 
+Axial displacement rate (mm/min) & 1 &     & 0.01 & 0.007 \\ 
+Isotropic loading rate (kPa/min) &   & 1   &      & \\ \bottomrule
+\end{tabular}
+\end{center}
+\label{parameters}
+\end{table}
+
+\section{Literature survey}
+The soil-cement reaction mechanism involves two distinct reactions 
+resulting in primary and secondary cementitious products. 
+There is a rapid hydration reaction and a much slower pozzolanic reaction. 
+The rapid hydration reaction occurs from the moment water is added to cement. 
+It results in the primary cementitious products of 
+hydrated calcium silicates ($\ce{C2SH_{x}}$, $\ce{C3S2H_{x}}$), 
+hydrated calcium aluminates ($\ce{C3AH_{x}}$, $\ce{C4AH_{x}}$) and 
+hydrated lime $\ce{Ca(OH)2}$. 
+The hydrated lime then dissociates and 
+raises the pH value of the pore water. 
+This causes the pozzolanic reaction in which 
+silica and alumina in the soil dissolve and 
+react with the now free $\ce{Ca^2+}$ ions. 
+The pozzolanic reaction results in the secondary cementitious products of 
+hydrated calcium silicates and hydrated calcium aluminates. 
+
+\citet{strength-compression} found that an increase in the curing time of 
+cement treated Singapore marine clay 
+from 7~days to 4~weeks resulted in a higher unconfined compressive strength. 
+Findings from (uniaxial) oedometer consolidation tests on Singapore marine 
+clay revealed that the change in the compression index, 
+$\mathrm{C_c}$, and recompression index, $\mathrm{C_r}$, 
+between 7~days and 4~weeks was "rather insignificant" \citep{compression}.
+The current study explores the curing time effect on specimens 
+under triaxial conditions with curing times of up to 3~months.
+
+Cement treatment can be done in the practice through 
+deep mixing and jet grouting. 
+Both the mixing ratios used in this study 
+were within the range of that used in some previous studies
+on deep mixing and jet grouting \citep{cement-contents}.
+
+\begin{figure}[htbp]
+\centering
+\input{./uct-multi.tex}
+\caption{Results of UCT tests for (a) 2-1-4 specimens and (b) 5-1-6 specimens.}
+\label{fig:UCT}
+\end{figure}
+
+\section{Unconfined compressive strength tests}
+Results from the UCT tests are given in Fig~\ref{fig:UCT}.
+There is a significant increase in the unconfined compressive strength 
+from 7~days to 4~weeks and a further increase from 4~weeks to 3~months.
+The average rate of this increase between 4~weeks and 3~months was 
+lower than $frac{1}{3}$ of the average rate between 7~days and 4~weeks.
+This was consistent for specimens of both mixing ratios. 
+Thus, there seems to be a modulation this curing time effect 
+after 4~weeks of curing. 
+
+\begin{figure}[htbp]
+\begin{center}
+\input{./ict-214.tex}
+\end{center}
+\begin{center}
+\input{./ict-516.tex}
+\end{center}
+\caption{Compression space curves from ICT tests on (a) 2-1-4 and (b) 5-1-6 
+         specimens.}
+\label{fig:ICT}
+\end{figure}
+
+\section{Isotropic compression tests}
+
+
+\begin{figure}[htbp]
+\begin{center}
+\input{./ciu-214.tex}
+\end{center}
+\begin{center}
+\input{./ciu-516.tex}
+\end{center}
+\caption{Stress-strain curves from CIU tests on (a) 2-1-4 and (b) 5-1-6 
+         specimens. Confining pressure is given next to curing time.}
+\label{fig:CIU}
+\end{figure}
+
+\section{Consolidated-undrained triaxial compression tests}
+Figure \ref{fig:CIU} show an increase in 
+the peak strength and the stiffness of specimens
+with an increase in the curing time.
+The average rate of both these curing time effects 
+is are lower between 4~weeks and 3~months 
+as opposed to 7~days and 4~weeks.
+Thus, there seems to be a modulation in
+both these curing time effects after 4~weeks of curing.
+
+\begin{figure}[htbp]
+\begin{center}
+\input{./cid-vol-214.tex}
+\end{center}
+\begin{center}
+\input{./cid-vol-516.tex}
+\end{center}
+\caption{Compression space curves from CIU tests on (a) 2-1-4 and (b) 5-1-6 
+         specimens. Confining pressure is given next to curing time.}
+\label{fig:CID-vol}
+\end{figure}
+
+\begin{figure}[htbp]
+\begin{center}
+\input{./cid-dev-214.tex}
+\end{center}
+\begin{center}
+\input{./cid-dev-516.tex}
+\end{center}
+\caption{Deviator stress-strain curves from CID tests on 
+         (a) 2-1-4 and (b) 5-1-6 specimens. 
+         Confining pressure is given next to curing time.}
+\label{fig:CID-dev}
+\end{figure}
+
+\section{Consolidated-drained traiaxial compression tests}
+Figure \ref{fig:CID-vol} shows the compression space curves 
+from CID tests. 
+There is a levelling in the slope of the curves 
+for specimens with longer curing times.
+This corresponds to a decrease in the 
+isotropic compression index at longer curing times.
+
+\bibliographystyle{apalike}
+\bibliography{urop-report}
+\end{document}
