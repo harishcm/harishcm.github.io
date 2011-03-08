@@ -98,7 +98,7 @@ ol p {
 
 li {
   width: 30em;
-  line-height: 1.8em;
+  line-height: 2em;
 }
 
 li > p {
@@ -131,7 +131,7 @@ a.imagelink:hover {
 p {
   text-transform: none;
   width: 33em;
-  /*text-align: justify;*/
+  text-align: justify;
   margin-top: 0;
   margin-bottom: 1em;
 }
@@ -332,36 +332,15 @@ table {
 }
 
 #sidebar .map ul {
-  list-style-type: none;
   width: auto;
-}
-
-#sidebar .map > ul {
-  text-indent: -5em;
-  margin-left: 7em;
-}
-
-#sidebar .map ul ul {
-  display: inline;
 }
 
 #sidebar .map li {
-  margin: 0 0 1em 0;
   width: auto;
-}
-
-#sidebar .map li li {
-  display: inline;
-  white-space: nowrap;
 }
 
 #sidebar a.mapparent {
   color: #DAA520; /* same as h2: goldenrod */
-  border-bottom: none;
-}
-
-#sidebar a.mapitem {
-  padding: 0 2px 2px 2px;
 }
 
 #sidebar .pagecloud {
@@ -505,7 +484,7 @@ div.notebox, div.infobox {
   width: 20em;
   float: right;
   clear: right;
-  /*text-align: justify;*/
+  text-align: justify;
   border: none;
   padding: 0;
   margin-top: 0;
@@ -543,9 +522,39 @@ table.img {
   text-transform: capitalize;
 }
 
+.map ul {
+  list-style-type: none;
+  margin-left: 1em;
+}
+
+.map > ul {
+  text-indent: -4em;
+  margin-left: 5em;
+}
+
+.map ul ul {
+  display: inline;
+
+}
+
+.map li {
+  margin: 0 0 1em 0;
+}
+
+.map li li {
+  display:inline;
+  white-space: nowrap;
+}
+
 a.mapparent {
   text-decoration: none;
   border: none;
+  color: #FFDEAD; /* same as h3: navajowhite */
+  padding: 2px 2px 2px 0;
+}
+
+a.mapitem {
+  padding: 2px;
 }
 
 .pagelist {
@@ -581,6 +590,10 @@ p.inlinepage {
   width: 33em;
   margin-left: 1em;
   line-height: 2em;
+}
+
+.pagecloud span {
+  white-space: nowrap;
 }
 
 .smallestPC {
