@@ -1,0 +1,147 @@
+\documentclass[a4paper]{article}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{setspace}
+  \onehalfspacing
+
+\title{Summary of ``Reliability assessment of high-strength concrete columns''
+       by Sofia M. C. Diniz and Dan M. Frangopol
+      }
+\author{Mohanadas Harish Chandar, U067314J}
+
+\begin{document}
+\maketitle
+
+\section*{Introduction}
+High-strength concrete (HSC) is different from normal-strength concrete (NSC)
+in that it has a more linear response, less microcracking, higher elastic 
+modulus, higher tensile strength, less creep, and less ductility.
+It is primarily used in the lower columns of high-rise buildings.
+Although considerable understanding about HSC exists, there is still 
+much concern about the use of HSC because of the following issues:
+
+There is concern about HSC's strength consistency as its production
+depends on low water/cement ratios, better aggregates, higher cement
+contents, chemical admixtures, and strict quality controls.
+The in-situ to cylinder-strength ratios used in design of HSC may need
+to be lower than that used for NSC.
+
+There is concern about HSC's brittleness as HSC is widely used in the
+lower columns of high-rise buildings. These columns are subjected to loads
+with small eccentricities, making brittle failures unavoidable.
+Although this can be improved with adequate lateral steel detailing,
+confinement is less effective for HSC than for NSC.
+
+There is also concern when HSC is used in the construction of columns in upper
+floors as only minimum steel is provided and cross-sections are
+reduced. The resulting large load eccentricities may lead to instability 
+problems.
+
+As design recommendations in the American Concrete Institute (ACI) codes
+were only based on concrete with strength up to 42 MPa, the authors
+wanted to investigate the reliability of HSC columns in order to make
+design and code recommendations for HSC columns.
+
+
+\section*{Columns designed}
+36 HSC columns were designed according to the ACI code. Within them they had
+2 strengths---62.1 MPa and 96.5 MPa. 12 NSC columns of strength 34.5 MPa
+were also designed according to the ACI code to provide benchmark reliability
+values.
+Dimensions of all columns were 508 mm by 508 mm with a cover of 38.1 mm.
+The columns were bent in a single curvature with equal moments at both ends, and
+design loads were set to match the design strength of the columns exactly.
+
+Among the columns, there were 2 longitudinal steel reinforcement ratios---0.013
+and 0.038, three slenderness ratios---0, 22 \& 50, and three degrees of 
+confinement---unconfined, minimum confinement according to the ACI code and more
+than the minimum confinement. For all columns, the mean live load to mean dead
+load ratios were set to 1, except when the effect of mean load ratio 
+itself was investigated.
+
+
+\section*{Reliability Analysis}
+RC columns do not have any closed-form expressions to describe column strength.
+Neither is there an unique formulation to define the failure criteria. 
+In their reliability analysis, the authors chose a performance function 
+postulated by Israel et al., 1987:
+
+\begin{equation}
+g(\mathbf{X}) = \left[ P^2 + \left( \frac{P \cdot e}{h} \right) ^2 \right] ^{1/2} - \left\{\left(D + L\right)^2 + \left[\frac{\left(D + L\right)e}{h}\right]^2\right\}^{1/2}
+\end{equation}
+where $P$ = axial resistance of the column at a given eccentricity $e$; 
+$h$ = cross section height; and $D$ and $L$ =, respectively, dead and live
+load acting on the column.
+
+The strength statistics at different $e/h$ ratios were generated using Monte Carlo
+simulations in previous studies by the authors (Diniz, 1994; Diniz and Frangopol, 1997b).
+The magnified moments at higher eccentricities were taken into account
+by reducing the strength of column, instead of increasing the loading.
+The load statistics used were also computed in previous studies by the authors
+(Diniz, 1994; Diniz and Frangopol, 1997a).
+
+Both FORM and SORM were used in the actual determination of reliability indices.
+It was found that there was negligible difference between the two methods, and
+only the FORM values were reported.
+
+\section*{Findings}
+The reliability analysis found that only small or negligible effects were caused 
+when varying the amount of confining steel. However, significant effects were caused 
+when varying concrete compressive strength, column slenderness ratio and 
+amount of longitudinal steel.
+
+It was found that HSC columns were generally less reliable than NSC columns.
+The lowest reliability levels ($\beta \leq$ 2.5) were produced when columns 
+had a combination of high concrete compressive strength, high slenderness ratio
+and minimum amount of longitudinal steel. 
+The worst case in the investigation occurred when the 96.5 MPa column with a 
+slenderness ratio of 50 and a minimum amount of longitudinal steel was loaded
+with an $e/h$ ratio of 0.7.
+At small eccentricities however, the reliability of HSC slender columns was
+higher than that of the corresponding HSC short columns.
+
+In HSC short columns, it was found that adequate reliability levels may 
+be achieved by lowering the in-situ to cylinder-strength ratio, and by keeping
+the ratio of load carried by longitudinal steel to load carried by
+concrete section constant, even as concrete strength was increased.
+
+In HSC slender columns, it was found that adequate reliability levels may
+be achieved by increasing the minimum amount of longitudinal steel in proportion
+to the increase in concrete compressive strength.  
+
+
+\section*{Conclusion}
+For HSC short columns, it was concluded that their lower reliabilities as
+compared to that of NSC short columns was primarily caused by the lower 
+in-situ to cylinder-strength ratio associated with HSC.
+
+For HSC slender columns, it was concluded that low reliabilities 
+(say $\beta \leq$ 3.3) were primarily due to the relatively small amounts of 
+longitudinal steel in these columns.
+
+The ACI code was concluded as being adequate for designing HSC columns, provided
+that: a lower in-situ to cylinder-strength ratio was assumed during design, and
+in the case of slender columns, the minimum allowable amount of longitudinal
+steel was increased in proportion to the increase in concrete compressive strength.
+
+\section*{References}
+\begin{list}{}{\setlength{\leftmargin}{0pt}}
+
+\item Israel, M., Ellingwood, B., and Corotis, R. (1987). ``Reliability-based
+code formulation for reinforced concrete buildings'', {\it J. Struct. Div.},
+ASCE, 113(10), 2235--2252
+
+\item Diniz, S. M. C. (1994). ``Reliability evaluation of high strength concrete columns'',
+PhD dissertation, Dept. of Civ., Envir., and Arch. Engrg., Univ. of Colorado, Boulder, Colo.
+
+\item Diniz, S. M. C., and Frangopol, D. M. (1997a). ``Reliability bases for high-strength
+concrete columns'', {\it J. Struct. Engrg.}, ASCE, 123(10), 1375--1381
+
+\item Diniz, S. M. C., and Frangopol, D. M. (1997b). ``Strength and ductility simulation of
+high-strength concrete columns'', {\it J. Struct. Engrg.}, ASCE, 123(10) 1365--1374
+
+\item Diniz, S. M. C., and Frangopol, D. M. (1998). ``Reliability assessment 
+of high-strength concrete columns'', {\it J. Engrg. Mech.}, ASCE, 124(5), 529--536
+
+\end{list}
+
+\end{document}

@@ -1,0 +1,418 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Cache-Control" content="must-revalidate" />
+<title>TeX Document Typesetting</title>
+
+<link rel="stylesheet" href="../../../style.css" type="text/css" />
+
+<link rel="stylesheet" href="../../../local.css" type="text/css" />
+
+
+
+
+
+</head>
+<body>
+
+<div class="pageheader">
+<div class="header">
+<span>
+<span class="parentlinks">
+
+
+<a href="../../../" class="imagelink"><img alt="Self-direct" src="../../../images/logo.png" /></a> &rarr;
+
+
+
+<a href="../../">records</a> &rarr;
+
+
+
+<a href="../">temp</a> &rarr;
+
+
+</span>
+<span class="title">
+
+TeX Document Typesetting
+
+
+</span>
+</span>
+
+
+
+</div><!--.header-->
+
+
+<div class="subpages"> 
+<p>Subpages:</p>
+<ul>
+
+<li><a href="./2008_hydraulics_lab/">2008 hydraulics lab</a></li>
+
+<li><a href="./2008_nuropc/">2008 nuropc</a></li>
+
+<li><a href="./2009_geotechnical_engineering_lab/">2009 geotechnical engineering lab</a></li>
+
+<li><a href="./2009_structural_design_lab/">2009 structural design lab</a></li>
+
+<li><a href="./2009_wastewater_engineering_lab/">2009 wastewater engineering lab</a></li>
+
+<li><a href="./2009_wastewater_engineering_project/">2009 wastewater engineering project</a></li>
+
+<li><a href="./graphviz_examples/">graphviz examples</a></li>
+
+<li><a href="./journal/">journal</a></li>
+
+</ul>
+</div>
+
+
+<!--
+
+-->
+
+
+</div> <!-- .pageheader -->
+
+<div class="pagecontent">
+<div id="content">
+
+<div class="DocTitle">
+<h1 id="tex_document_typesetting">TeX Document Typesetting</h1>
+</div>
+<div class="MainPage">
+<ol>
+<li class="L1">Inspiration <ol>
+<p class="P2">I heard about the beauty of typesetting done by TeX and LateX
+during a social interaction session after a Singapore Linux Meetup Group
+(SLMG) meetup. This was perfectly in tune with my prior interest in
+typography and in creating a Tamil font.
+</p>
+<p class="P2">
+I also heard that learning LyX would be a good way to ease the
+transition from document prepartion with word processors to
+document preparationwith LateX. Another draw was the possibility for
+extended separation of content from style. </p>
+</ol>
+<li class="L1">Packages I have used <ol>
+<li class="L2">Tables <ol>
+<li class="L3">booktabs <ol>
+<p class="P4">For creating standard publication quality tables. </p>
+</ol>
+<li class="L3">tabularx <ol>
+<p class="P4">For creating fixed width tables with columns of variable size.
+Usual fixed width tables in latex vary the
+spacing between columns instead. </p>
+</ol>
+<li class="L3">longtable <ol>
+<p class="P4">Allows for tables spanning multiple pages. </p>
+</ol>
+<li class="L3">ltxtable <ol>
+<p class="P4">Allows the usage of both tabularx and longtable together. </p>
+</ol>
+<li class="L3">dcolumn <ol>
+<p class="P4">To easily align numbers along the decimal point. </p>
+</ol>
+<li class="L3">multirow <ol>
+<p class="P4">To create cells that span multiple rows. The \minitab
+command used in the package readme allows linebreaks in multirow
+cells. Use with a negative nrows for cells to align with
+bottom row. For negative nrows, data must be entered in the
+bottom row. </p>
+</ol>
+</ol>
+<li class="L2">Floats <ol>
+<li class="L3">wrapfig <ol>
+<p class="P4">Enables wrapping of text around figures, tables and other
+floats. </p>
+</ol>
+<li class="L3">caption <ol>
+<p class="P4">Allows for changing of several style parameters
+for the captions. </p>
+</ol>
+<li class="L3">float <ol>
+<p class="P4">Provides a &#8217;H&#8217; option to force placement of floats exactly
+at the position that they appear in the document file. </p>
+</ol>
+</ol>
+<li class="L2">Layout <ol>
+<li class="L3">geometry <ol>
+<p class="P4">Full control of layout options for whole document </p>
+</ol>
+<li class="L3">lscape <ol>
+<p class="P4">Provides an environment to place parts of the document in
+landscape mode. </p>
+</ol>
+<li class="L3">setspace <ol>
+<p class="P4">Makes changing of linespacing easier. </p>
+</ol>
+</ol>
+<li class="L2">Fonts <ol>
+<li class="L3">bera <ol>
+<p class="P4">Bitstream Vera fonts. Suitable for screen reading.
+Redefines serif, sans-serif and typewriter fonts. </p>
+</ol>
+<li class="L3">charter <ol>
+<p class="P4">Bitstream Charter fonts. Slabs serifs make it
+suitable for screen reading.
+Redefines only serif fonts. </p>
+</ol>
+<li class="L3">mathdesign <ol>
+<p class="P4">Math fonts that complement Bitstream Charter [charter],
+Adobe Utopia [utopia] and URW Garamond [garamond] text fonts. </p>
+</ol>
+<li class="L3">cmbright <ol>
+<p class="P4">Computer Modern Bright font. It is a sans font with a
+corresponding math font that was derived from Computer Modern. </p>
+</ol>
+<li class="L3">mathptmx <ol>
+<p class="P4">Times font with a corresponding math font. </p>
+</ol>
+<li class="L3">iwona or kurier <ol>
+<p class="P4">Sans font with a corresponding math font. Needs to be specified
+with [math] option for corresponding math font to be enabled.
+The only difference is that kurier has gaps in its strokes. </p>
+</ol>
+<li class="L3">anttor <ol>
+<p class="P4">Stylish serif font with a corresponding math font. Needs to be
+specified with [math] option for corresponding math font to be
+enabled. </p>
+</ol>
+<li class="L3">fouriernc <ol>
+<p class="P4">Uses New Century Schoolbook as the text font and for Latin
+letters in math. Uses Greek letters and symbols from the
+Fourier-GUTenberg package. </p>
+</ol>
+<li class="L3">fourier <ol>
+<p class="P4">Similar to fouriernc but uses Utopia as the text font and for
+Latin letters in Math. </p>
+</ol>
+<li class="L3">arev <ol>
+<p class="P4">Sans font with math support. Uses an extended version of
+Bitstream Vera Sans called Arev Sans for Greek and many
+mathematical symbols. Uses bold version of Bitstream Charter for
+symbols. </p>
+</ol>
+</ol>
+<li class="L2">Hyphenation <ol>
+<li class="L3">hyphenat <ol>
+<p class="P4">Options to disable hyphenation among others. </p>
+</ol>
+</ol>
+<li class="L2">Lists <ol>
+<li class="L3">enumitem <ol>
+<p class="P4">Change various parameters of enumerate, itemize and
+description lists. </p>
+</ol>
+</ol>
+<li class="L2">Line breaking <ol>
+<li class="L3">url <ol>
+<p class="P4">Breaks urls cleanly. The &#8220;hyphens&#8221; option breaks urls at hyphens
+as well. Use with \raggedright if urls still overflow to the
+right. </p>
+</ol>
+</ol>
+<li class="L2">Presentations <ol>
+<li class="L3">beamer <ol>
+<p class="P4">Allows one to create presentations. Seems most useful for
+technical presentations that accompany written report.
+Especially useful if mathematical equations and equation
+numbering is desired. </p>
+</ol>
+</ol>
+</ol>
+<li class="L1">Useful commands <ol>
+<li class="L2">Tables <ol>
+<li class="L3">\newcolumntype{C}{&gt;{\centering\arraybackslash}X} <ol>
+<p class="P4">For centered tabularx columns </p>
+</ol>
+<li class="L3">\minitab[c]{Some &#92; linebroken &#92; text} <ol>
+<p class="P4">Used with the multirow package to enable line breaking in cells
+spanning multiple rows.
+</p>
+<li class="L4">\newcommand{\minitab}[2][l]{\begin{tabular}{#1}#2\end{tabular}} </ol>
+</ol>
+<li class="L2">Layout <ol>
+<li class="L3">\enlargethispage{N\baselineskip} <ol>
+<p class="P4">Used to extend the page by the length specified as the
+argument. Change N to be the number of lines more to be
+included in the current page. </p>
+</ol>
+<li class="L3">\linespread{N} <ol>
+<p class="P4">Used to change the linespread or linespacing throughout the
+entire document. 1.3 corresponds to one and a half spacing while
+1.6 corresponds to double spacing. </p>
+</ol>
+</ol>
+</ol>
+<li class="L1">Possible Resources <ol>
+<li class="L2">The TeX Catalogue OnLine <ol>
+<li class="L3">BY Graham Williams and Jürgen Fenn
+<li class="L3">Online Bibliography, Accessed Sep 2009
+<li class="L3"><a href="http://texcatalogue.sarovar.org">URL</a>
+<li class="L3">Initial Perception <ol>
+<p class="P4">The topical section looks really informative and organised! </p>
+</ol>
+</ol>
+<li class="L2">Jpgfdraw <ol>
+<li class="L3">BY Nicola L. C. Talbot
+<li class="L3">Software, Open Source
+<li class="L3"><a href="http://theoval.cmp.uea.ac.uk/~nlct/jpgfdraw">Website</a>, Accessed Mar 2011
+<li class="L3">Initial Perception <ol>
+<p class="P4">Java Virtual Machine based drawing program to generate
+PGF images. </p>
+</ol>
+</ol>
+</ol>
+<li class="L1">Explored Resources <ol>
+<li class="L2">Typesetting your academic CV in LaTeX <ol>
+<li class="L3">BY Dario Taraborelli
+<li class="L3">Online Article, Accessed Dec 2010
+<li class="L3"><a href="http://nitens.org/taraborelli/cvtex">URL</a>
+<li class="L3">Initial Perception <ol>
+<p class="P4">Presents several beautiful resumes typeset with XeTeX. Gives
+several templates based on the standard article class with which
+one can typeset their own resumes. I really like his usage of
+fonts and his usage of the standard article class to create his
+resumes. </p>
+</ol>
+</ol>
+</ol>
+<li class="L1">Possible Resources <ol>
+<li class="L2">The LaTeX Font Catalogue <ol>
+<li class="L3">BY Palle Jørgensen
+<li class="L3">Online Font Catalogue
+<li class="L3"><a href="http://www.tug.dk/FontCatalogue">URL</a>
+<li class="L3">Initial Perception <ol>
+<p class="P4">Has a listing of several fonts for use with LaTeX. Gives
+images previews of the font as well. </ol>
+</ol>
+</ol>
+</ol>
+</div>
+
+</div>
+
+<div id="pageinfo">
+<span>
+<span class="parentlinks">
+
+<a href="../../../">Self-direct</a> &rarr;
+
+<a href="../../">records</a> &rarr;
+
+<a href="../">temp</a> &rarr;
+
+</span>
+<span class="title">
+TeX Document Typesetting
+
+</span>
+</span>
+
+
+<div class="subpages"> 
+<p>Subpages:</p>
+<ul>
+
+<li><a href="./2008_hydraulics_lab/">2008 hydraulics lab</a></li>
+
+<li><a href="./2008_nuropc/">2008 nuropc</a></li>
+
+<li><a href="./2009_geotechnical_engineering_lab/">2009 geotechnical engineering lab</a></li>
+
+<li><a href="./2009_structural_design_lab/">2009 structural design lab</a></li>
+
+<li><a href="./2009_wastewater_engineering_lab/">2009 wastewater engineering lab</a></li>
+
+<li><a href="./2009_wastewater_engineering_project/">2009 wastewater engineering project</a></li>
+
+<li><a href="./graphviz_examples/">graphviz examples</a></li>
+
+<li><a href="./journal/">journal</a></li>
+
+</ul>
+</div>
+
+
+
+<div class="tags">
+<p>Tags:</p>
+<ul>
+
+<li><a href="../../../themes/design/" rel="tag">design</a></li>
+
+<li><a href="../../../themes/learning_project/" rel="tag">learning project</a></li>
+
+<li><a href="../../../themes/skills/" rel="tag">skills</a></li>
+
+<li><a href="../../../themes/typesetting/" rel="tag">typesetting</a></li>
+
+<li><a href="../../../themes/writing/" rel="tag">writing</a></li>
+
+</ul>
+</div>
+
+
+
+<div id="backlinks">
+<p>Links:</p>
+<ul>
+
+<li><a href="../website/">website</a></li>
+
+
+</ul>
+</div><!-- #backlinks -->
+
+
+<div class="pagedate">
+Last edited <span class="date">Sunday 23,October,2011 09:27:36 PM SGT</span>
+<!-- Created <span class="date">Sunday 23,October,2011 09:27:36 PM SGT</span> -->
+</div>
+</div><!-- #pageinfo -->
+
+
+
+
+
+</div> <!-- .pagecontent -->
+
+
+<div id="menu">
+<ul>
+<li><a href="../../../">Home</a></li>
+<li><a href="../../../faqs/">FAQs</a></li>
+<li><a href="../../../framework/">Framework</a></li>
+<li><a href="../../">Records</a></li>
+<li><a href="../../../about/">About</a></li>
+</ul>
+
+</div>
+
+
+<div id="footer" class="pagefooter">
+
+
+<div class="pagelicense">
+<p>
+<a rel="license" class="imagelink" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="CC-BY-SA" src="../../../images/cc_by_sa.png" /></a>
+<br />
+Unless stated otherwise, you are free to share and remix content on this website under a 
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a> license.
+A backlink is sufficient for attribution.
+</p>
+</div>
+
+
+<!-- from Self-direct -->
+</div><!-- .pagefooter #footer -->
+
+</body>
+</html>

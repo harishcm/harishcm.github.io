@@ -78,6 +78,10 @@ ul {
   width: 33em;
 }
 
+ul ul {
+  width: 30em;
+}
+
 ul p {
   margin-top: 0.5em;
   padding-left: 1em;
@@ -110,7 +114,7 @@ li > p {
 a {
   text-decoration: none;
   color: #CCC;
-  background-color: #333;
+  /*background-color: #333;*/
   border-bottom: 2px solid #708090;
   padding-bottom: 2px;
 }
@@ -227,7 +231,7 @@ table {
 }
 
 #pageinfo ul {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   list-style-type: none;
   margin-top: 0;
   width: auto;
@@ -379,7 +383,7 @@ table {
 }
 
 .pageheader ul {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   list-style-type: none;
   margin-top: 0;
   width: auto;
@@ -399,7 +403,7 @@ table {
 }
 
 span.parentlinks {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   color: #CCC;
 }
 
@@ -412,7 +416,7 @@ span.parentlinks a {
 span.title {
   font-weight: bold;
   color: #CD5C5C; /* same as h1: indianred */
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .pageheader div.subpages {
@@ -502,6 +506,19 @@ div.notebox p, div.infobox p {
   width: auto;
 }
 
+div.notebox ul, div.infobox ul {
+  width: auto;
+}
+
+div.notebox li, div.infobox li {
+  width: auto;
+}
+
+.selflink {
+  color: #FFDEAD; /* same as h3: navajowhite */
+  border-bottom: 1px solid #333;
+}
+
 /*
 table.img {
   width: 20em;
@@ -519,7 +536,7 @@ table.img {
 }
 
 .map {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .map ul {
@@ -527,6 +544,7 @@ table.img {
   margin-left: 1em;
 }
 
+/*
 .map > ul {
   text-indent: -4em;
   margin-left: 5em;
@@ -536,6 +554,7 @@ table.img {
   display: inline;
 
 }
+*/
 
 .map li {
   margin: 0 0 1em 0;
@@ -558,7 +577,7 @@ a.mapitem {
 }
 
 .pagelist {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .inline {
@@ -571,13 +590,13 @@ a.mapitem {
 }
 
 p.inlinepage {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
   line-height: 2em;
   margin: 0;
 }
 
 .pageStats {
-  text-transform: capitalize;
+  /*text-transform: capitalize;*/
 }
 
 .pagecloud {

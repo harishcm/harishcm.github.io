@@ -1,0 +1,49 @@
+strict digraph web_crawler_analogy {
+   node [shape=box, style=rounded];
+
+   a [label="Inspiration\nto Learn", rank=source];
+   b [label="Search for Links\nto Resources", style=filled];
+   c [label="Come Across\nResources"];
+   d [label="Determine", shape=egg, style=""];
+
+   a -> b -> c -> d;
+
+   subgraph e {
+      
+      e0 [label="Relevant Resource"];
+      e1 [label="Get Information"];
+      e2 [label="Assimilate with\nExisting Knowledge"];
+      e3 [label="Make Records"];
+      e4 [label="Set New Direction?"];
+      e5 [label="Search for Links to\nNew Resources", style=filled];
+      e6 [label="..."];
+   
+      e0 -> e1 -> e2 -> {e3 e4};
+      e4 -> e5 -> e6;
+   }
+
+   subgraph f {
+
+      f0 [label="Irrelevant Resource"];
+      f1 [label="Useful for\nOther Purposes?"];
+      f2 [label="Discard"];
+      f3 [label="Make Records"];
+
+      f0 -> f1 -> {f2 f3};
+   }
+
+   g [label="Follow Next\nLink"];
+
+   d -> e0; 
+   d -> f0;
+   e0 -> g; 
+   f0 -> g;
+   g -> d;
+
+   h [label="Get New Links from\nResource Itself"];
+   i [label="No More Links in Hand"];
+
+   e0 -> h -> c;
+   f0 -> i -> b;
+   {rank=same; h i d}
+}
