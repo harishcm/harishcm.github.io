@@ -176,7 +176,8 @@ table {
   width: 56em;
   /*margin: 1em 0 1em 1em;*/
   padding: 1em 1.5em 1.5em 1.5em;
-  background-image: url("/images/foreground.jpg");
+  /*background-image: url("/images/foreground.jpg");*/
+  background-color: #333;
 
   -moz-border-radius: 24px 0 12px 12px;
   -webkit-border-radius: 24px 0 12px 12px;
@@ -207,7 +208,8 @@ table {
   width: 57em;
   border-top: none;
   margin: 1em 0;
-  background-image: url("/images/foreground.jpg");
+  /*background-image: url("/images/foreground.jpg");*/
+  background-color: #333;
 
   -moz-border-radius: 12px;
   -webkit-border-radius: 12px;
@@ -301,7 +303,8 @@ table {
   /*margin: 1em 0 1em 1em;*/
   padding: 1em 1.5em 2em;
   margin: 1em 0;
-  background-image: url("/images/foreground.jpg");
+  /*background-image: url("/images/foreground.jpg");*/
+  background-color: #333;
 
   -moz-border-radius: 12px;
   -webkit-border-radius: 12px;
@@ -361,7 +364,8 @@ table {
   padding: 1em;
   width: 57em;
   position: relative;
-  background-image: url("/images/foreground.jpg");
+  /*background-image: url("/images/foreground.jpg");*/
+  background-color: #333;
 
   -moz-border-radius: 0 50px 0 24px;
   -webkit-border-radius: 0 50px 0 24px;
@@ -403,7 +407,7 @@ table {
 }
 
 span.parentlinks {
-  /*text-transform: capitalize;*/
+  text-transform: capitalize;
   color: #CCC;
 }
 
@@ -454,7 +458,8 @@ div.pagedate {
   /*border-top: 1px solid #888;*/
   clear: both;
   width: 57em;
-  background-image: url("/images/foreground.jpg");
+  /*background-image: url("/images/foreground.jpg");*/
+  background-color: #333;
 
   -moz-border-radius: 12px 12px 0 0;
   -webkit-border-radius: 12px 12px 0 0;
