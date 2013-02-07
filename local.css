@@ -687,9 +687,11 @@ p.inlinepage {
 */
 
 .MainPage img {
-  /*float: right;*/
-  height: 8em;
+  float: right;
+  /*max-height: 100px;*/
+  /*height: 8em;*/
   display: block;
+  margin-left: 5px;
 }
 
 .MainPage ol {
