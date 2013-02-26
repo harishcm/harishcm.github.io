@@ -402,8 +402,13 @@ table {
   border: none;
 }
 
+.pageheader a.imagelink {
+  color: #FFDEAD;
+  text-transform: none;
+}
+
 .header {
-  margin: 0.5em 0 1em 0.5em;
+  margin: 1em 0.5em;
   line-height: 2em;
 }
 
@@ -607,7 +612,7 @@ a.mapitem {
 p.inlinepage {
   /*text-transform: capitalize;*/
   line-height: 2em;
-  margin: 0;
+  margin-left: 1em;
 }
 
 .pageStats {
