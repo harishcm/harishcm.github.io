@@ -259,7 +259,6 @@ table {
 }
 
 #menu {
-  text-align: right;
   /*width: 35em;*/
   /*margin: 1em 0 1em 1em;*/
   padding: 1em;
@@ -458,6 +457,7 @@ div.tags a {
 
 div.pagedate {
   margin: 1em 0;
+  padding-top: 0.5em;
 }
 
 .pagefooter {
