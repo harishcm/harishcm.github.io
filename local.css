@@ -14,7 +14,7 @@ body {
   font-family: 'Bitstream Vera Sans', Verdana, sans-serif;
   font-size: 13px;
   line-height: 2em;
-  width: 60em;
+  width: 59em;
   margin: auto;
   position: relative;
 }
@@ -178,11 +178,6 @@ table {
   padding: 1em 1.5em 1.5em 1.5em;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
-
-  -moz-border-radius: 24px 0 12px 12px;
-  -webkit-border-radius: 24px 0 12px 12px;
-  border-radius: 24px 0 12px 12px; /* future proofing */
-  -khtml-border-radius: 24px 0 12px 12px; /* for old Konqueror browsers */
 }
 
 #content img {
@@ -204,17 +199,12 @@ table {
 }
 
 #pageinfo {
-  padding: 1em;
-  width: 57em;
+  padding: 1.5em;
+  width: 56em;
   border-top: none;
   margin: 1em 0;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
-
-  -moz-border-radius: 12px;
-  -webkit-border-radius: 12px;
-  border-radius: 12px; /* future proofing */
-  -khtml-border-radius: 12px; /* for old Konqueror browsers */
 }
 
 #pageinfo * {
@@ -223,7 +213,7 @@ table {
 
 #pageinfo div {
   margin-left: 2em;
-  margin-right: 1em;
+  /*margin-right: 1em;*/
 }
 
 #pageinfo p {
@@ -243,8 +233,15 @@ table {
   display: inline;
 }
 
+/*
 #pageinfo > span:first-child {
   margin-left: 0.5em;
+}
+*/
+
+#pageinfo div.pagedate {
+  margin: 1em 0;
+  padding-top: 0.5em;
 }
 
 #backlinks {
@@ -305,25 +302,26 @@ table {
   margin: 1em 0;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
-
-  -moz-border-radius: 12px;
-  -webkit-border-radius: 12px;
-  border-radius: 12px; /* future proofing */
-  -khtml-border-radius: 12px; /* for old Konqueror browsers */
 }
 
+#sidebar * {
+  font-size: 11px;
+}
+
+/*
 #sidebar a {
   border-bottom: 2px solid #708090;
 }
 #sidebar a:hover {
   border-bottom: 2px solid #6B8E23;
 }
+*/
 
 #sidebar p {
   color: #CD5C5C; /* same as h1: indianred */
-  font-size: 13px;
+  /*font-size: 13px;*/
   font-weight: bold;
-  margin-top: 1em;
+  margin-top: 2em;
   margin-bottom: 0;
 }
 
@@ -334,12 +332,13 @@ table {
 }
 
 #sidebar .map {
-  margin-left: -0.5em;
+  /*margin-left: -0.5em;*/
   font-size: 11px;
 }
 
 #sidebar .map ul {
   width: auto;
+  margin-left: 2em;
 }
 
 #sidebar .map li {
@@ -366,11 +365,6 @@ table {
   position: relative;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
-
-  -moz-border-radius: 0 50px 0 24px;
-  -webkit-border-radius: 0 50px 0 24px;
-  border-radius: 0 50px 0 24px; /* future proofing */
-  -khtml-border-radius: 0 50px 0 24px; /* for old Konqueror browsers */
 }
 
 .pageheader * {
@@ -455,11 +449,6 @@ div.tags a {
   white-space: nowrap;
 }
 
-div.pagedate {
-  margin: 1em 0;
-  padding-top: 0.5em;
-}
-
 .pagefooter {
   /*margin: 1em 0 1em 1em;*/
   padding: 1em;
@@ -468,11 +457,6 @@ div.pagedate {
   width: 57em;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
-
-  -moz-border-radius: 12px 12px 0 0;
-  -webkit-border-radius: 12px 12px 0 0;
-  border-radius: 12px 12px 0 0; /* future proofing */
-  -khtml-border-radius: 12px 12px 0 0; /* for old Konqueror browsers */
 }
 
 .pagelicense {
@@ -501,7 +485,7 @@ div.notebox, div.infobox {
   width: 20em;
   float: right;
   clear: right;
-  text-align: justify;
+  /*text-align: justify;*/
   border: none;
   padding: 0;
   margin-top: 0;
@@ -515,21 +499,33 @@ div.notebox *, div.infobox * {
   font-size: 11px;
 }
 
+div.notebox h2, div.infobox h2 {
+  font-family: 'Liberation Sans', Arial, 'Bitstream Vera Sans', Verdana, sans-serif;
+  font-size: 13px;
+}
+
+div.notebox h2:first-child, div.infobox h2:first-child {
+  margin-top: 0;
+}
+
 div.notebox p, div.infobox p {
   width: auto;
 }
 
 div.notebox p.inlinepage , div.infobox p.inlinepage {
-  display: list-item;
-  margin-left: 2em;
+  /*display: list-item;
+  margin-left: 2em;*/
 }
 
 div.notebox ul, div.infobox ul {
   width: auto;
+  list-style: none;
+  margin-left: 1em;
 }
 
 div.notebox li, div.infobox li {
   width: auto;
+  margin-bottom: 1em;
 }
 
 .selflink {
