@@ -563,15 +563,10 @@ table.img {
   text-indent: -4em;
   margin-left: 5em;
 }
-
-.map ul ul {
-  display: inline;
-
-}
 */
 
-.map li {
-  margin: 0 0 1em 0;
+.map ul ul {
+  margin-bottom: 1em;
 }
 
 .map li li {
