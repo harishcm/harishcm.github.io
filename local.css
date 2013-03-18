@@ -209,6 +209,7 @@ table {
 
 #pageinfo * {
   font-size: 11px;
+  text-align: left;
 }
 
 #pageinfo div {
@@ -306,6 +307,7 @@ table {
 
 #sidebar * {
   font-size: 11px;
+  text-align: left;
 }
 
 /*
@@ -485,7 +487,6 @@ div.notebox, div.infobox {
   width: 17em;
   float: right;
   clear: right;
-  /*text-align: justify;*/
   border: none;
   padding: 0;
   margin-top: 0;
@@ -497,6 +498,7 @@ div.notebox, div.infobox {
 
 div.notebox *, div.infobox * {
   font-size: 11px;
+  text-align: left;
 }
 
 div.notebox h2, div.infobox h2 {
