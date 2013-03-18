@@ -572,6 +572,7 @@ table.img {
 .map li li {
   display:inline;
   white-space: nowrap;
+  width: auto;
 }
 
 a.mapparent {
