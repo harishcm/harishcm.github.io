@@ -341,10 +341,6 @@ table {
   margin-left: 2em;
 }
 
-#sidebar .map li {
-  width: auto;
-}
-
 #sidebar a.mapparent {
   color: #DAA520; /* same as h2: goldenrod */
 }
@@ -565,12 +561,16 @@ table.img {
 }
 */
 
+.map li {
+  width: auto;
+}
+
 .map ul ul {
   margin-bottom: 1em;
 }
 
 .map li li {
-  display:inline;
+  display:inline-block;
   white-space: nowrap;
 }
 
