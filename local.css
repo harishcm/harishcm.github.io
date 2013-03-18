@@ -14,7 +14,7 @@ body {
   font-family: 'Bitstream Vera Sans', Verdana, sans-serif;
   font-size: 13px;
   line-height: 2em;
-  width: 59em;
+  width: 56em;
   margin: auto;
   position: relative;
 }
@@ -28,7 +28,7 @@ div.pageheader, div#content, div#pageinfo, div#menu, div#sidebar, div.pagefooter
 }
 
 div.pagecontent {
-  width: 59em;
+  width: 56em;
   position: relative;
 }
 
@@ -173,7 +173,7 @@ table {
 }
 
 #content {
-  width: 56em;
+  width: 53em;
   /*margin: 1em 0 1em 1em;*/
   padding: 1em 1.5em 1.5em 1.5em;
   /*background-image: url("/images/foreground.jpg");
@@ -200,7 +200,7 @@ table {
 
 #pageinfo {
   padding: 1.5em;
-  width: 56em;
+  width: 53em;
   border-top: none;
   margin: 1em 0;
   /*background-image: url("/images/foreground.jpg");
@@ -261,7 +261,7 @@ table {
   padding: 1em;
   position: absolute;
   top: 0.5em;
-  right: 3em;
+  right: 0;
 }
 
 #menu * {
@@ -296,7 +296,7 @@ table {
 }
 
 #sidebar {
-  width: 56em;
+  width: 53em;
   /*margin: 1em 0 1em 1em;*/
   padding: 1em 1.5em 2em;
   margin: 1em 0;
@@ -361,7 +361,7 @@ table {
 
 .pageheader {
   padding: 1em;
-  width: 57em;
+  width: 54em;
   position: relative;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
@@ -454,7 +454,7 @@ div.tags a {
   padding: 1em;
   /*border-top: 1px solid #888;*/
   clear: both;
-  width: 57em;
+  width: 54em;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
 }
@@ -474,7 +474,7 @@ div.tags a {
 }
 
 div.img {
-  width: 20em;
+  width: 17em;
   float: right;
   clear: right;
   text-align: center;
@@ -482,7 +482,7 @@ div.img {
 }
 
 div.notebox, div.infobox {
-  width: 20em;
+  width: 17em;
   float: right;
   clear: right;
   /*text-align: justify;*/
