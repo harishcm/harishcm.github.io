@@ -337,8 +337,12 @@ table {
 }
 
 #sidebar .map ul {
-  width: auto;
   margin-left: 2em;
+  width: auto;
+}
+
+#sidebar .map li {
+  width: auto;
 }
 
 #sidebar a.mapparent {
@@ -561,16 +565,12 @@ table.img {
 }
 */
 
-.map li {
-  width: auto;
-}
-
 .map ul ul {
   margin-bottom: 1em;
 }
 
 .map li li {
-  display:inline-block;
+  display:inline;
   white-space: nowrap;
 }
 
