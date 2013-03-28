@@ -567,6 +567,10 @@ table.img {
 }
 */
 
+.map li {
+  margin-bottom: 1em;
+}
+
 .map ul ul {
   margin-bottom: 1em;
 }
