@@ -592,7 +592,7 @@ a.mapparent {
   border: none;
   color: #FFDEAD; /* same as h3: navajowhite */
   padding: 2px 2px 2px 0;
-  display: block;
+  /*display: block;*/
 }
 
 a.mapitem {
