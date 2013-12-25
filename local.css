@@ -376,7 +376,7 @@ table {
 
 .pageheader * {
   text-align: left;
-  font-size: small;
+  /*font-size: small;*/
   color: #CCC;
   font-weight: normal;
 }
@@ -408,8 +408,12 @@ table {
 }
 
 .header {
-  margin: 4em 0.5em 3em;
+  margin: 2em 0.5em 0;
   line-height: 2em;
+}
+
+.header * {
+  font-size: small;
 }
 
 span.parentlinks {
