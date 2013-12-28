@@ -14,7 +14,7 @@ body {
   font-family: 'Bitstream Vera Sans', Verdana, sans-serif;
   font-size: medium;
   line-height: 2em;
-  width: 40em;
+  max-width: 40em;
   margin: auto;
   position: relative;
 }
@@ -28,7 +28,7 @@ div.pageheader, div#content, div#pageinfo, div#menu, div#sidebar, div.pagefooter
 }
 
 div.pagecontent {
-  width: 40em;
+  max-width: 40em;
   position: relative;
 }
 
@@ -75,11 +75,11 @@ h3 a {
 ul {
   padding: 0;
   margin-left: 2em;
-  width: 33em;
+  max-width: 33em;
 }
 
 ul ul {
-  width: 30em;
+  max-width: 30em;
 }
 
 ul p {
@@ -91,7 +91,7 @@ ul p {
 ol {
   padding: 0;
   margin-left: 2em;
-  width: 33em;
+  max-width: 33em;
 }
 
 ol p {
@@ -101,7 +101,7 @@ ol p {
 }
 
 li {
-  width: 30em;
+  max-width: 30em;
   line-height: 2em;
 }
 
@@ -134,7 +134,7 @@ a.imagelink:hover {
 
 p {
   text-transform: none;
-  /*width: */33em;*/
+  /*max-width: 33em;*/
   clear: right;
   text-align: justify;
   margin-top: 0;
@@ -142,18 +142,18 @@ p {
 }
 
 li p, blockquote p {
-  width: 30em;
+  max-width: 30em;
 }
 
 blockquote {
-  width: 30em;
+  max-width: 30em;
   margin-left: 1em;
   padding-left: 1em;
   border-left: 2px solid #708090;
 }
 
 pre { 
-  width: 33em;
+  max-width: 33em;
 
   white-space: pre-wrap;       /* css-3 */  
   white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */  
@@ -166,7 +166,7 @@ hr {
   display: none;
   border: 1px solid #708090; /* effectively 2px height*/
   margin: 2em auto 1em 0;
-  /*width: 33em;*/
+  /*max-width: 33em;*/
 }
 
 table {
@@ -174,7 +174,7 @@ table {
 }
 
 #content {
-  width: 37em;
+  max-width: 37em;
   /*margin: 1em 0 1em 1em;*/
   padding: 1em 1.5em 1.5em 1.5em;
   /*background-image: url("/images/foreground.jpg");
@@ -201,7 +201,7 @@ table {
 
 #pageinfo {
   padding: 1em 1.5em;
-  width: 37em;
+  max-width: 37em;
   border-top: none;
   margin: 1em 0;
   /*background-image: url("/images/foreground.jpg");
@@ -258,7 +258,7 @@ table {
 }
 
 #menu {
-  /*width: 35em;*/
+  /*max-width: 35em;*/
   margin: 0 0 1em;
   padding: 1em 0;
   /*position: absolute;
@@ -298,7 +298,7 @@ table {
 }
 
 #sidebar {
-  width: 37em;
+  max-width: 37em;
   /*margin: 1em 0 1em 1em;*/
   padding: 1em 1.5em;
   margin: 1em 0;
@@ -348,6 +348,10 @@ table {
   width: auto;
 }
 
+#sidebar .map ul ul {
+  width: auto;
+}
+
 #sidebar .map li {
   width: auto;
 }
@@ -368,7 +372,7 @@ table {
 
 .pageheader {
   padding: 1em;
-  width: 38em;
+  max-width: 38em;
   position: relative;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
@@ -465,14 +469,14 @@ div.tags a {
   padding: 1em;
   /*border-top: 1px solid #888;*/
   clear: both;
-  width: 38em;
+  max-width: 38em;
   /*background-image: url("/images/foreground.jpg");
   background-color: #333;*/
 }
 
 .pagelicense {
   margin: auto;
-  width: 30em;
+  max-width: 30em;
 }
 
 .pagelicense * {
@@ -486,14 +490,14 @@ div.tags a {
 }
 
 div.img {
-  width: 30em;
+  max-width: 30em;
   /*float: none;*/
   text-align: center;
   margin: 0 auto 1em;
 }
 
 div.notebox, div.infobox {
-  width: 30em;
+  max-width: 30em;
   float: none;
   border: none;
   padding: 0;
@@ -548,7 +552,7 @@ div.notebox li, div.infobox li {
 
 /*
 table.img {
-  width: 20em;
+  max-width: 20em;
   float: left;
   margin-right: -20em;
   margin-left: 1em;
@@ -634,7 +638,7 @@ p.inlinepage {
   float: none;
   padding: 0;
   text-align: center;
-  width: 33em;
+  max-width: 33em;
   margin-left: 1em;
   line-height: 2em;
 }
