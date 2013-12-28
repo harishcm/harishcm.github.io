@@ -220,7 +220,7 @@ table {
 
 #pageinfo p {
   color: #DAA520; /* same as h2: goldenrod */
-  width: auto;
+  max-width: auto;
   margin-bottom: 0;
 }
 
@@ -228,7 +228,7 @@ table {
   /*text-transform: capitalize;*/
   list-style-type: none;
   margin-top: 0;
-  width: auto;
+  max-width: auto;
 }
 
 #pageinfo li {
@@ -345,15 +345,15 @@ table {
 
 #sidebar .map ul {
   margin-left: 2em;
-  width: auto;
+  max-width: auto;
 }
 
 #sidebar .map ul ul {
-  width: auto;
+  max-width: auto;
 }
 
 #sidebar .map li {
-  width: auto;
+  max-width: auto;
 }
 
 #sidebar a.mapparent {
@@ -362,7 +362,7 @@ table {
 
 #sidebar .pagecloud {
   margin-left: 1.5em;
-  width: auto;
+  max-width: auto;
 }
 
 #sidebar table.pageStats {
@@ -387,7 +387,7 @@ table {
 
 .pageheader p {
   color: #DAA520; /* same as h2: goldenrod */
-  width: auto;
+  max-width: auto;
   margin-bottom: 0;
 }
 
@@ -395,7 +395,7 @@ table {
   /*text-transform: capitalize;*/
   list-style-type: none;
   margin-top: 0;
-  width: auto;
+  max-width: auto;
 }
 
 .pageheader li {
@@ -524,7 +524,7 @@ div.notebox h2:first-child, div.infobox h2:first-child {
 }
 
 div.notebox p, div.infobox p {
-  width: auto;
+  max-width: auto;
 }
 
 div.notebox p.inlinepage , div.infobox p.inlinepage {
@@ -533,13 +533,13 @@ div.notebox p.inlinepage , div.infobox p.inlinepage {
 }
 
 div.notebox ul, div.infobox ul {
-  width: auto;
+  max-width: auto;
   list-style: none;
   margin-left: 1em;
 }
 
 div.notebox li, div.infobox li {
-  width: auto;
+  max-width: auto;
   margin-bottom: 1em;
 }
 */
