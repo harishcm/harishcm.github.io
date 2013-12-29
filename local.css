@@ -649,6 +649,7 @@ p.inlinepage {
   float: none;
   padding: 0;
   text-align: center;
+  width: auto;
   max-width: 33em;
   margin-left: 1em;
   line-height: 2em;
