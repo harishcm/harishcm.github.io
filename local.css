@@ -310,7 +310,7 @@ table {
 
 #sidebar * {
   font-size: small;
-  text-align: justify;
+  /*text-align: justify;*/
 }
 
 /*
