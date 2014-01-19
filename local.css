@@ -173,6 +173,10 @@ table {
   margin-bottom: 1em;
 }
 
+img {
+  max-width: 100%;
+}
+
 #content {
   max-width: 37em;
   /*margin: 1em 0 1em 1em;*/
