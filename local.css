@@ -84,8 +84,9 @@ ul ul {
 
 ul p {
   margin-top: 0.5em;
-  padding-left: 1em;
+  padding-left: 0.5em;
   line-height: 2em;
+  max-width: 30em;
 }
 
 ol {
@@ -96,8 +97,9 @@ ol {
 
 ol p {
   margin-top: 0.5em;
-  padding-left: 1em;
+  padding-left: 0.5em;
   line-height: 2em;
+  max-width: 30em;
 }
 
 li {
@@ -105,10 +107,11 @@ li {
   line-height: 2em;
 }
 
-li > p {
+li p {
   margin-top: 0.5em;
-  padding-left: 1em;
+  padding-left: 0.5em;
   line-height: 2em;
+  max-width: 30em;
 }
 
 a {
@@ -141,15 +144,15 @@ p {
   margin-bottom: 1em;
 }
 
-li p, blockquote p {
-  max-width: 30em;
-}
-
 blockquote {
   max-width: 30em;
   margin-left: 1em;
   padding-left: 1em;
   border-left: 2px solid #708090;
+}
+
+blockquote p {
+  max-width: 30em;
 }
 
 pre { 
